@@ -19,19 +19,19 @@
 ## 🧩 프로젝트 구조
 
 Source/
-├── Characters/
-│ └── BlasterCharacter.cpp
-├── Abilities/
-│ ├── GA_Dash.cpp
-│ ├── GA_Heal.cpp
-│ └── GA_Fire.cpp
-├── UI/
-│ └── AbilityHUD.cpp
-├── Weapons/
-│ └── HitScanWeapon.cpp
-└── Core/
-├── GameMode.cpp
-└── GameState.cpp
+  ├── Characters/
+  │ └── BlasterCharacter.cpp
+  ├── Abilities/
+  │ ├── GA_Dash.cpp
+  │ ├── GA_Heal.cpp
+  │ └── GA_Fire.cpp
+  ├── UI/
+  │ └── AbilityHUD.cpp
+  ├── Weapons/
+  │ └── HitScanWeapon.cpp
+  └── Core/
+  ├── GameMode.cpp
+  └── GameState.cpp
 
 
 > ☝️ 각 서브 디렉토리는 `ㄴ`, `ㄷ`, `ㄹ` 개발자들이 기능별로 담당한 영역입니다.

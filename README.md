@@ -19,8 +19,8 @@
 ## 🧩 프로젝트 구조
 
 Source/
-  ├── Characters/
-  │ └── BlasterCharacter.cpp
+ - ├── Characters/
+ - │ └── BlasterCharacter.cpp
   ├── Abilities/
   │ ├── GA_Dash.cpp
   │ ├── GA_Heal.cpp
